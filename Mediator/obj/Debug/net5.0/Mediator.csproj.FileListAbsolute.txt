@@ -63,3 +63,16 @@ C:\Users\diana\source\repos\Mediator\Mediator\obj\Debug\net5.0\Mediator.genrunti
 C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\diana\source\repos\Mediator\Mediator\bin\Debug\net5.0\Serilog.Sinks.File.dll
