@@ -1,4 +1,6 @@
+using FluentValidation;
 using Mediator.Context;
+using Mediator.PipelineBehaviours;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -36,7 +38,8 @@ namespace Mediator
                     b => b.MigrationsAssembly(typeof(ApplicationContext).Assembly.FullName)));
             services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddScoped<IApplicationContext>(provider => provider.GetService<ApplicationContext>());
-
+            services.AddValidatorsFromAssembly(typeof(Startup).Assembly);
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(LoggingBehaviour<,>));
 
             services.AddControllers();
             #region Swagger
